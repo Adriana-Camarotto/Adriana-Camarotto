@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Adriana-Camarotto">
-  <img height="180em" width="42%" display: flex src="https://github-readme-stats.vercel.app/api?username=Adriana-Camarotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" display: flex src="https://github-readme-stats.vercel.app/api?username=Adriana-Camarotto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" width="50%" display: flex src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Camarotto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
