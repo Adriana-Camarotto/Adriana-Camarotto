@@ -1,6 +1,6 @@
 ## ✨ Hi, I’m @Adriana-Camarotto!👋😀
 
-- 🌱 Currentely studying => Bootcamp Front End Web developer.
+- 🌱 Currentely studying in aBootcamp Front End Web developer.
 - 💖 I’m passioned for technology and committed to a career in the tech industry. 
 - 📫 How to reach me linkedin.com/in/adriana-maziero-camarotto
 
