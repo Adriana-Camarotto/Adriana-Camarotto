@@ -3,6 +3,7 @@
 - 🌱 Currently doing a Front End Web developer Bootcamp.
 - 💖 I’m passioned  about technology and committed to a career in the tech industry. 
 - 📫 How to reach me: linkedin.com/in/adriana-maziero-camarotto
+                       adriana.camarotto@gmail.com
 
 <div align="center">
   <a href="https://github.com/Adriana-Camarotto">
