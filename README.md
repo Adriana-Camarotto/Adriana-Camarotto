@@ -4,7 +4,7 @@
 - 💖 I’m passioned  about technology and committed to a career in the tech industry. 
 - 📫 How to reach me: Send me a message: adriana.camarotto@gmail.com
 - 👩‍💻 My Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
-- 🎯 My Portfolio:  https://adriana-camarotto.github.io/AdriCamarotto_portfolio_Bootstrap/
+- 🎯 My Portfolio: https://adricamarottoportfolio.netlify.app/
 
 
 <div align="center">
