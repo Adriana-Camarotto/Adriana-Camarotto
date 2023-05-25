@@ -1,7 +1,7 @@
 ## ✨ Hi, I’m @Adriana-Camarotto!👋😀
 
 - 🎓 Edx Front End Web developer Bootcamp.
-- 💖 I’m passioned  about technology and committed to a career in the tech industry. 
+- 💖 I’m passioned  about technology and committed to a career in the tech industry as a Front End Web Developer.
 - 📫 How to reach me: Send me a message: adriana.camarotto@gmail.com
 - 👩‍💻 My Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
 - 🎯 My Portfolio: https://adricamarottoportfolio.netlify.app/
