@@ -3,8 +3,8 @@
 - 🎓 Front End Web developer
 - 💖 I’m passioned  about technology and business
 - 📫 Reach me: adriana.camarotto@gmail.com
-- 👩‍💻 My Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
-- 🎯 My Portfolio: https://adricamarottoportfolio.netlify.app/
+- 👩‍💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
+- 🎯 Portfolio: https://adricamarottoportfolio.netlify.app/
 
 
 <div align="center">
