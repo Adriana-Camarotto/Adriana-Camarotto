@@ -2,9 +2,10 @@
 
 - 🎓 Front End Web developer
 - 💖 I’m passioned  about technology and business
-- 💻 Currently working at Design Monkey Media Ltd. Cambridge - UK
+- 👩‍💻 Currently working at Design Monkey Media Ltd. Cambridge - UK
 - 📫 Reach me: adriana.camarotto@gmail.com
-- 👩‍💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
+- 💻 ![Untitled](https://github.com/Adriana-Camarotto/Adriana-Camarotto/assets/113354313/36695075-eb38-4b52-a449-e7e4a68f7b89)
+Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
 - 🎯 Portfolio: https://adricamarottoportfolio.netlify.app/
 
 
