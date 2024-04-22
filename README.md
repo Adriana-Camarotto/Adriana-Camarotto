@@ -7,6 +7,7 @@
 - 💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
 - 🎯 Portfolio: https://adricamarottoportfolio.netlify.app/
 
+##
 
 <div align="center">
   <a href="https://github.com/Adriana-Camarotto">
