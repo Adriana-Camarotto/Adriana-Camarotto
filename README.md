@@ -55,6 +55,32 @@
 
 #
 
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <!-- Languages -->
+  <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img title="TypeScript" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img title="HTML5" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="CSS3" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="Next.js" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img title="Node.js" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img title="Material UI" alt="Material UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
+  <img title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img title="Tailwind CSS" alt="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+</p>
+
+<p align="center">
+  <!-- CMS -->
+  <img title="WordPress" alt="WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
+  <img title="Payload CMS" alt="Payload CMS" height="30" width="40" src="https://payloadcms.com/favicon.svg">
+</p>
+#
+
 <div> 
   <a href="https://www.instagram.com/adri.camarotto/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
