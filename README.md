@@ -50,7 +50,7 @@
   <img align="center" alt="Adri-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </p>
 
-Se quiser, posso também adicionar animações, tooltips (descrições ao passar o mouse) ou reorganizar por categoria (ex: linguagens, frameworks, CMS). Quer que eu faça isso?
+
 
 
 #
