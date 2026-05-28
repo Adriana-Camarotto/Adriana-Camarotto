@@ -22,10 +22,6 @@
   <img align="center" alt="Adri-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Adri-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Adri-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img title="Payload CMS" alt="Payload CMS" height="30" width="40" src="https://payloadcms.com/favicon.svg">
-
-
-  
   </div>
 
 #
