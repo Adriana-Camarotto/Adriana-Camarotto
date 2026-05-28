@@ -15,9 +15,9 @@
  <img height="180em" width="45%" display: flex src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Camarotto&layout=compact&langs_count=7&theme=radical"/>
 </div>
    #
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adriana-Camarotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Camarotto&layout=compact&langs_count=7&theme=radical&cache_seconds=86400" />
+ <div align="center">
+  <img height="180" src="https://SEU-PROJETO.vercel.app/api?username=Adriana-Camarotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=Adriana-Camarotto&layout=compact&langs_count=7&theme=radical"/>
 </div>
   #
     
