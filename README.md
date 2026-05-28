@@ -14,7 +14,11 @@
   <img height="180em" width="45%" display: flex src="https://github-readme-stats.vercel.app/api?username=Adriana-Camarotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="180em" width="45%" display: flex src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Camarotto&layout=compact&langs_count=7&theme=radical"/>
 </div>
-    
+   ##
+    <div align="center">
+  <img height="180" style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Adriana-Camarotto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriana-Camarotto&layout=compact&langs_count=7&theme=radical"/>
+</div>
   ##
     
 <div style="display: inline_block"><br>
