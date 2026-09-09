@@ -1,12 +1,102 @@
-## ✨ Hi, I’m @Adriana-Camarotto!👋😀
+# ✨ Hi, I'm Adriana 👋👩‍💻
 
-- 🎓 Front End Web developer 
-- 👩‍💻 Currently working as freelancer. I'm based in UK.
-- 💖 I’m passioned  about technology and business
-- 📫 Reach me: adriana.camarotto@gmail.com
+### Front-End Developer | React | TypeScript | Next.js
+
+I'm a Front-End Developer with **3+ years of professional experience** building production web applications and responsive websites.
+
+I enjoy turning ideas and designs into accessible, maintainable and user-friendly interfaces, with a particular focus on **React, TypeScript and modern frontend development**.
+
+Currently, I'm working on client projects while continuing to build and improve my own applications and deepen my knowledge of frontend testing, performance and developer workflows.
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* React
+* TypeScript
+* JavaScript
+* Next.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Material UI
+
+**Backend & APIs**
+
+* Node.js
+* Express
+* REST APIs
+* Headless CMS
+* WordPress
+
+**Tools & Workflow**
+
+* Git & GitHub
+* Vite
+* npm / pnpm
+* VS Code
+* Figma
+* GitHub Actions
+* Vitest
+* React Testing Library
+
+**AI**
+
+* Claude API
+* Claude Code
+* AI-assisted development and application features
+
+## 🚀 Featured Projects
+
+### 🤖 AI Job Tracker
+
+An AI-powered job application tracker built with React and Vite.
+
+It combines application management with AI-assisted job analysis, CV matching, cover-letter generation and job searching.
+
+**React · Vite · Anthropic API · Vitest · React Testing Library · Node.js**
+
+👉 [View the repository](https://github.com/Adriana-Camarotto/job-tracker)
+
+### 🌍 Weekend Funtimes Planner
+
+A responsive web application for discovering and planning weekend activities.
+
+**React · JavaScript · APIs · Responsive UI**
+
+👉 [View the repository](https://github.com/Adriana-Camarotto/weekend-funtimes)
+
+### 💻 Portfolio
+
+My personal portfolio showcasing selected frontend projects and professional experience.
+
+👉 [View my portfolio](https://adricamarottoportfolio.netlify.app/)
+
+## 📚 Currently Learning
+
+* Advanced React and Next.js patterns
+* Frontend testing with Vitest and React Testing Library
+* CI/CD with GitHub Actions
+* Web performance and Core Web Vitals
+* Modern frontend architecture
+
+## 🎯 What I Enjoy
+
+* Building clean and intuitive user interfaces
+* Turning Figma designs into production-ready websites
+* Working with APIs and headless CMS platforms
+* Creating reusable components
+* Improving accessibility and performance
+* Solving frontend problems and debugging production issues
+* Exploring practical applications of AI in web development
+
+## 📫 Let's Connect
+
+- 📧 Reach me: adriana.camarotto@gmail.com
 - 💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
 - 🎯 Portfolio: https://adricamarottoportfolio.netlify.app/
-
+  
  ##
   
 <div style="display: inline_block"><br>
