@@ -93,9 +93,9 @@ My personal portfolio showcasing selected frontend projects and professional exp
 
 ## 📫 Let's Connect
 
-📧 Reach me: adriana.camarotto@gmail.com
-💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
-🎯 Portfolio: https://adricamarottoportfolio.netlify.app/
+* 📧 Reach me: adriana.camarotto@gmail.com
+* 💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
+* 🎯 Portfolio: https://adricamarottoportfolio.netlify.app/
   
  ##
   
