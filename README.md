@@ -29,6 +29,7 @@ Currently, I'm working on client projects while continuing to build and improve 
 * REST APIs
 * Headless CMS
 * WordPress
+* Statamic
 
 **Tools & Workflow**
 
