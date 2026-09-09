@@ -1,7 +1,7 @@
 ## ✨ Hi, I’m @Adriana-Camarotto!👋😀
 
 - 🎓 Front End Web developer 
-- 👩‍💻 Currently working at Alt Design. I'm based in Cambridge - UK
+- 👩‍💻 Currently working as freelancer. I'm based in UK.
 - 💖 I’m passioned  about technology and business
 - 📫 Reach me: adriana.camarotto@gmail.com
 - 💻 Linkedin: [linkedin.com/in/adriana-maziero-camarotto](https://www.linkedin.com/in/adriana-camarotto/)
